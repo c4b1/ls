@@ -17,3 +17,7 @@ Pack Featues:
 • Customizable in-game zoom features, preset to mimic OptiFine
 
 • Performance enhancements 
+
+
+Logo Credits:
+[Monocle Vectors by Vecteezy](https://www.vecteezy.com/free-vector/monocle)
