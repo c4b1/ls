@@ -36,6 +36,3 @@ Mod List:
 • [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 
 • [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
-
-Logo Credits:
-Monocle Vectors by Vecteezy
