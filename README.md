@@ -1,6 +1,8 @@
 # Looking Swell - QOL modpack
 Designed for Minecraft Java Edition 1.17.x!
 
+Dev's Discord: https://discord.gg/S2ccfgH8bg
+
 ### Available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/looking-swell)!
 Pack Featues:
 
